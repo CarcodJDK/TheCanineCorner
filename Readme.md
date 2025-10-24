@@ -11,10 +11,11 @@ Proyecto eCommerce canino desarrollado como entorno de prueba y despliegue en AW
 Tecnologías: AWS, Linux, Apache, PHP, MySQL, Bash, 
 
 ## Capturas
-![Homepage](./Captura de pantalla 2025-10-20 120210.png)
+![Pets Shop Screenshot](<./Captura de pantalla 2025-10-20 120210.png>)
 
 ## Requisitos para desplegar
 - AWS CLI configurado
 - EC2 Ubuntu 22.04 con Apache y PHP
 
 - Instancia RDS MySQL configurada
+
