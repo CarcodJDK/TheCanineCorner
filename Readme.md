@@ -1,21 +1,19 @@
 # Pets Shop Cloud
 
-Proyecto eCommerce canino desarrollado como entorno de prueba y despliegue en AWS. Incluye:
+Canine eCommerce project developed as a testing and deployment environment on AWS. Includes:
 
-- WordPress personalizado con carrito propio en PHP
-- Infraestructura cloud con EC2, RDS y S3
-- Scripts de automatización y migración
-- Pruebas de carga y monitoreo básico
-- Arquitectura con VPC y subredes seguras
+- Custom WordPress with a PHP-based shopping cart  
+- Cloud infrastructure using EC2, RDS, and S3  
+- Automation and migration scripts  
+- Basic load testing and monitoring  
+- Architecture with VPC and secure subnets  
 
-Tecnologías: AWS, Linux, Apache, PHP, MySQL, Bash, 
+**Technologies:** AWS EC2, AWS RDS, AWS S3, AWS CLI, AWS IAM, Linux, Apache, PHP, MySQL, Bash  
 
-## Capturas
+## 📸 Screenshots
 ![Pets Shop Screenshot](<./Captura de pantalla 2025-10-20 120210.png>)
 
-## Requisitos para desplegar
-- AWS CLI configurado
-- EC2 Ubuntu 22.04 con Apache y PHP
-
-- Instancia RDS MySQL configurada
-
+## ⚙️ Deployment Requirements
+- Configured AWS CLI  
+- Ubuntu 22.04 EC2 instance with Apache and PHP  
+- Configured MySQL RDS instance
